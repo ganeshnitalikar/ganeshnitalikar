@@ -56,7 +56,7 @@
 
 ###
 
-<img src="https://github.com/ganeshnitalikar/ganeshnitalikar/blob/main/output/snake.svg" alt="Snake animation" />
+<img align="left" src="https://github.com/ganeshnitalikar/ganeshnitalikar/blob/main/output/snake.svg" alt="Snake animation" />
 
 ###
 
