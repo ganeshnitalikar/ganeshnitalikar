@@ -1,18 +1,25 @@
-<br clear="both">
+# Hi there! 👋
 
-<h2 align="center">Hi 👋! My name is Ganesh and I'm a  third year Computer Engineering Student</h2>
+I'm Ganesh, a final year Computer Engineering student from Pune University. Welcome to my GitHub profile!
 
-###
+## 🎓 Education
 
-<br clear="both">
+I'm currently in the final year of my Computer Engineering program at Pune University. Throughout my academic journey, I have gained a strong foundation in computer science and engineering principles.
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ganeshnitalikar.ganeshnitalikar&left_color=teal&right_color=thistle&left_text=Hackers"  />
+## 💻 Passionate Programmer
 
-###
+I am a self-driven and passionate programmer who enjoys working with cutting-edge technologies. I find great satisfaction in developing programs that solve real-world problems and bring value to users. I am proficient in languages such as core Java.
 
-<br clear="both">
+## 💻 Web Development
 
-<h5 align="left">👋 Hello there! I'm Ganesh, a third year student of Computer Engineering from Pune University. Welcome to my GitHub profile!<br><br>🎓 Education: <br>I'm currently in the final year of my Computer Engineering program at Pune University. Throughout my academic journey, I have gained a strong foundation in computer science and engineering principles.<br><br>💻Passionate Programmer:<br>I am a self-driven and passionate programmer who enjoys working with cutting-edge technologies. I find great satisfaction in developing programs that solve real-world problems and bring value to users.I am proficient in languages such as core JAVA.<br><br>💻 Web Development:<br>I have a proficient knowledge of web development. I have hands-on experience with front-end technologies such as HTML, CSS, and JavaScript, and I am learning back-end technologies like Node.js and Express.js. I enjoy building responsive and user-friendly web applications that combine functionality with an appealing user interface.<br>Thank you for visiting my GitHub profile. If you have any questions or would like to connect, feel free to reach out. Happy coding!</h5>
+I have proficient knowledge of web development. I have hands-on experience with front-end technologies such as HTML, CSS, and JavaScript, and I am learning back-end technologies like Node.js and Express.js. I enjoy building responsive and user-friendly web applications that combine functionality with an appealing user interface.
+
+## 🚀 App Development
+
+I am currently diving into app development, particularly focusing on Flutter and Firebase. Exploring the world of mobile app development excites me, and I'm eager to build projects using Flutter and integrate them with Firebase for backend services. Stay tuned for updates on my latest app development projects!
+
+Thank you for visiting my GitHub profile. If you have any questions or would like to connect, feel free to reach out. Happy coding!
+
 
 ###
 
